@@ -17,3 +17,6 @@ spring:
         show_sql: true
   application:
     name: reveiw-service
+app:
+  product:
+    discount-rate: 10
