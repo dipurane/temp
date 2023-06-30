@@ -19,4 +19,4 @@ spring:
     name: reveiw-service
 app:
   product:
-    discount-rate: 30
+    discount-rate: 40
